@@ -2,7 +2,7 @@
   "name": "taskflow-api",
   "version": "1.0.0",
   "scripts": {
-    "start": "node node_modules/json-server/bin/index.js --watch db.json --port 3001"
+    "start": "node server.js"
   },
   "dependencies": {
     "json-server": "0.17.4"
